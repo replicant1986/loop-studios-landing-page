@@ -427,6 +427,22 @@ header img
 
 
 
+@media (min-width: 400px)
+{
+    .deep-earth h1
+    {
+        width: 30%;
+    }
+
+    .grid h1 
+    {
+        width: 25%;
+    }
+}
+
+
+
+
 
 @media (min-width: 720px)
 
@@ -928,6 +944,33 @@ body
     {
         left: 34.5vw;
     }
+}
 
 
+@media (min-width: 1600px)
+{
+    .vr-text
+    {
+        bottom: 37.6vh;
+    }
+
+    .from-above h1, .curiosity h1 
+    {
+        width: 50%;
+    }
+
+    footer p 
+    {
+        right: 28.7vw;
+    }
+
+    footer h4 
+    {
+        left: 66vw;
+    }
+
+    .see-all
+    {
+        left: 85%;
+    }
 }
