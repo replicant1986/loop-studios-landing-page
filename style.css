@@ -406,7 +406,7 @@ header img
     background-size: contain;
     max-width: 90vw;
     height: 30vh;
-    margin-left: 8vw;
+    margin-left: 12vw;
     margin-top: 6rem;
     margin-bottom: 3rem;
 }
@@ -451,7 +451,7 @@ header img
 
 .vr-image
 {
-    margin-left: 25%;
+    margin-left: 5vw;
     height: 40vh;
 }
 
