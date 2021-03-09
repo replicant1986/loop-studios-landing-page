@@ -870,4 +870,9 @@ body
         left: 33vw;
         bottom: 3.5rem;
     } 
+
+    .social img:hover
+    {
+        cursor: pointer;
+    }
 }
