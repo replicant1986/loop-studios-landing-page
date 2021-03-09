@@ -135,7 +135,7 @@ header
 
 .deep-earth
 {
-    background-image: url(./mobile/image-deep-earth.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-deep-earth.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -153,7 +153,7 @@ header
 
 .night-arcade
 {
-    background-image: url(./mobile/image-night-arcade.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-night-arcade.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -171,7 +171,7 @@ header
 
 .soccer
 {
-    background-image: url(./mobile/image-soccer-team.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-soccer-team.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -189,7 +189,7 @@ header
 
 .grid
 {
-    background-image: url(./mobile/image-grid.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-grid.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -225,7 +225,7 @@ header
 
 .borealis
 {
-    background-image: url(./mobile/image-pocket-borealis.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-pocket-borealis.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -243,7 +243,7 @@ header
 
 .curiosity
 {
-    background-image: url(./mobile/image-curiosity.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-curiosity.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -261,7 +261,7 @@ header
 
 .fisheye
 {
-    background-image: url(./mobile/image-fisheye.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./mobile/image-fisheye.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
